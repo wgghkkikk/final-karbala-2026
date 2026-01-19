@@ -1,4 +1,4 @@
-name: Quran-Final-Live
+name: Quran-Stream
 on:
   workflow_dispatch:
 jobs:
